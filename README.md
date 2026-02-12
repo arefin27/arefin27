@@ -1,4 +1,4 @@
-![logo](https://github.com/arefin27/arefin27/blob/main/RAFI.jpg)
+![logo](https://github.com/arefin27/arefin27/blob/main/RAFI.png)
 <h1 align="center">Hi 👋, I'm Arefin Ahmed Rafi</h1>
 <h3 align="center">A passionate Data Science aspirant from Bangladesh</h3>
 
